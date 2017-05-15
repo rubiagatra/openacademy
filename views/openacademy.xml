@@ -106,7 +106,7 @@
                             </group>
                         </group>
                         <label for="attendee_ids"/>
-                        <field name="attendee_ids">
+                        <field name="attendee_ids"/>
                      </sheet>
                 </form>
             </field>
